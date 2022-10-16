@@ -1,1 +1,1 @@
-Usage of services in buttons via 3 components and 3 respective buttons in a single page that would give alerts on giving trigger.
+Sample navigation bar with home,contact,services and about pages which uses navigation property of angular.
